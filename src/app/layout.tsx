@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className="bg-background --font-roboto antialiased max-w-6xl m-auto"
+        className={`bg-background ${roboto.className} antialiased max-w-6xl m-auto`}
       >
         <ThemeProvider
           attribute="class"
