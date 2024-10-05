@@ -1,12 +1,7 @@
 "use client";
 
-import { Rss } from "lucide-react";
-import Link from "next/link";
 import { FunctionComponent } from "react";
 import { DarkModeToggle } from "./DarkModeToggle";
-
-import { Button } from "./ui/button";
-import { Icons } from "./icons";
 
 export const Footer: FunctionComponent = () => {
   return (
