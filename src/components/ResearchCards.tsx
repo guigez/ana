@@ -18,7 +18,7 @@ interface CardPaper {
 
 const CardPapers: CardPaper[] = [
     {
-        title: "igital survey applied to the assessment of pathological manifestations in the architectural heritage of monte alegre in Piracicaba/SP. JOURNAL OF BUILDING PATHOLOGY AND REHABILITATION (PRINT), v. 8, p. 60, 2023.",
+        title: "Digital survey applied to the assessment of pathological manifestations in the architectural heritage of monte alegre in Piracicaba/SP. JOURNAL OF BUILDING PATHOLOGY AND REHABILITATION (PRINT), v. 8, p. 60, 2023.",
         href: "https://link.springer.com/article/10.1007/s41024-023-00306-1",
         openInNewTab: true
     },
